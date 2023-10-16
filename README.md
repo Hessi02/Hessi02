@@ -30,8 +30,7 @@
 
 # About me
 
-✌️ &emsp; Enjoy to do programming <br/><br/> 
-📧 &emsp; Reach me anytime: <br/><br/>
+✌️ &emsp; Enjoy to do programming <br/><br/>
 💬 &emsp; Ask me about anything [here]()
 
 ## Use to code
