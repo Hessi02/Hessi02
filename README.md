@@ -2,7 +2,7 @@
 
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://alsiam.com">@Hessi02</a></b>
+                <b><a target="_blank" href="">@Hessi02</a></b>
         </samp>
         <br />
 </h3>
@@ -49,10 +49,6 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ## Activity
-
-<p align="center">
-
-</p>
 
 <a> 
   <a href="https://github.com/Hessi02">
