@@ -30,7 +30,7 @@
 
 # About me
 
-✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/> 
+✌️ &emsp; Enjoy to do programming <br/><br/> 
 📧 &emsp; Reach me anytime: luca.hesselbrock@web.de<br/><br/>
 💬 &emsp; Ask me about anything [here]()
 
