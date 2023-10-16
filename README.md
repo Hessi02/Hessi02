@@ -49,6 +49,10 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
+## Top open source
+
+[![Gyrocelery](https://github-readme-stats.vercel.app/api/pin/?username=fquarl&repo=Gyrocelery&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/fquarl/Gyrocelery)
+
 ## Activity
 
 <a> 
