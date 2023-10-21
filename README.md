@@ -47,7 +47,7 @@
 ## Top open source
 
 <p>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hessi02&repo=ClubOptimzer" width="49.5%">
+    <!--<img src="https://github-readme-stats.vercel.app/api/pin/?username=Hessi02&repo=ClubOptimzer" width="49.5%">-->
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=fquarl&repo=Gyrocelery" width="49.5%">
 </p>
 
